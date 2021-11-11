@@ -1,0 +1,1298 @@
+body {
+	width: 1348px;
+	/*overflow: hidden;*/
+	background-size: contain;
+}
+
+#header {
+	background: #167bc1;
+	margin: 0;
+	margin-top: -20px;
+	border: 0;
+	padding: 0;
+	width: 1335px;
+	height: 372.2px;
+	display: block;
+	font-family: "Segoe UI", Arial, sans-serif;
+	font-feature-settings: normal;
+	font-size: 18px;
+	font-stretch: normal;
+	font-style: normal;
+	font-variant: normal;
+	font-variant-alternates: normal;
+	font-variant-caps: normal;
+	font-variant-east-asian: normal;
+	font-variant-ligatures: normal;padding: 10px 0;
+	font-variant-numeric: normal;
+	font-variant-position: normal;
+	font-weight: 900;
+	letter-spacing: 2.7px;
+	line-height: 36px;
+	box-sizing: content-box;
+	float: none;
+	z-index: auto;
+	position: relative;
+}
+
+
+#main-menu {
+	position: relative;
+	left: 0px;
+	right: 0px;
+	top: 0px;
+	z-index: 155;
+	margin: 0px;
+	background: #167bc1;
+	display: block;
+	border: 0px;
+	width: 1335px;
+	height: 94px;
+	background-attachment: scroll;
+	/*background-clip: border-box;
+	background-origin: padding-box;
+	background-repeat: repeat;
+	background-size: auto auto;*/
+	font-family: "Segoe UI", Arial, sans-serif;
+	font-feature-settings: normal;
+	font-kerning: auto;
+	font-language-override: normal;
+	font-size: 18px;
+	font-stretch: normal;
+	font-style: normal;
+	font-variant-alternates: normal;
+	font-variant-caps: normal;
+	font-variant-east-asian: normal;
+	font-variant-ligatures: normal;
+	font-variant-numeric: normal;
+	font-variant-position: normal;
+	left: 0px;
+	letter-spacing: 2.7px;
+	line-height: 36px;
+	box-sizing: content-box;
+}
+
+#name-tagline {
+	padding: auto;
+	margin: 0 auto;
+	max-width: 1148px;
+	height: 74x;
+	position: relative;
+	display: block;
+	font-family: "Segoe UI", Arial, sans-serif;
+	font-feature-settings: normal;
+	font-kerning: auto;
+	font-language-override: normal;
+	font-size: 18px;
+	font-stretch: normal;
+	font-style: normal;
+	font-variant: normal;
+	font-variant-alternates: normal;
+	font-variant-caps: normal;
+	font-variant-east-asian: normal;
+	font-variant-ligatures: normal;
+	font-variant-numeric: normal;
+	font-variant-position: normal;
+	font-weight: 900;
+	letter-spacing: 2.7px;
+	line-height: 36px;
+	box-sizing: content-box;
+	float: none;
+	z-index: auto;
+}
+
+
+#_list {
+	font-family: 'Segoe UI',monospace;
+	letter-spacing: -.63em;
+	word-spacing: -.63em;
+	font-size: 0;
+	text-align: center;
+	border: none;
+	margin: 0;
+	padding: 0;
+	background: none;
+	box-shadow: none;
+	list-style: none;
+	display: block;
+	margin-block-start: 1em;
+	margin-block-end: 1em;
+	padding-inline-start: 40px;
+	width: 1148px;
+	height: 74px;
+	background-attachment: scroll;
+	background-clip: border-box;
+	background-origin: padding-box;
+	background-repeat: repeat;
+	background-size: auto auto;
+	border-image-repeat: stretch stretch;
+	border-image-slice: 100%;
+	border-image-width: 1;
+	font-feature-settings: normal;
+	font-kerning: auto;
+	font-language-override: normal;
+	font-stretch: normal;
+	font-style: normal;
+	font-variant: normal;
+	font-variant-alternates: normal;
+	font-variant-caps: normal;
+	font-variant-east-asian: normal;
+	font-variant-ligatures: normal;
+	font-variant-numeric: normal;
+	font-variant-position: normal;
+	font-weight: 900;
+	letter-spacing: 0px;
+	line-height: 36px;
+	list-style-position: outside;
+	text-align: center;
+	box-sizing: content-box;
+	z-index: auto;
+	position: static;
+}
+
+#menu-list {
+	width: 25%;
+	margin: 0px;
+	line-height: 74px;
+	text-align: center;
+	display: inline-block;
+	vertical-align: top;
+	letter-spacing: 0;
+	word-spacing: 0;
+	padding: 0;
+	list-style: none;
+	background-attachment: scroll;
+	background-clip: border-box;
+	background-origin: padding-box;
+	background-repeat: repeat;
+	background-size: auto auto;
+	border-image-repeat: stretch stretch;
+	border-image-slice: 100%;
+	border-image-width: 1;
+	float: none;
+	font-family: "Segoe UI", Arial, sans-serif;
+	font-feature-settings: normal;
+	font-kerning: auto;
+	font-language-override: normal;
+	font-size: 17px;
+	font-stretch: normal;
+	font-style: normal;
+	font-variant: normal;
+	font-variant-alternates: normal;
+	font-variant-caps: normal;
+	font-variant-east-asian: normal;
+	font-variant-ligatures: normal;
+	font-variant-numeric: normal;
+	font-variant-position: normal;
+	font-weight: 900;
+	list-style-position: outside;
+	position: static;
+	box-sizing: content-box;
+}
+
+#menu-link:hover {
+  color: orange;
+}
+
+#menu-link {
+	position: relative;
+	display: block;
+	color: #aec9dc;
+	text-decoration: none;
+	text-transform: uppercase;
+	letter-spacing: .15em;
+	transition: color .3s;
+	cursor: pointer;
+	line-height: 74px;
+	font-size: 17px;
+	font-weight: 900;
+	text-align: center;
+	font-family: 'Segoe UI',Arial,sans-serif;
+	width: 287px;
+	font-feature-settings: normal;
+	font-kerning: auto;
+	font-language-override: normal;
+	font-size: 17px;
+	font-stretch: normal;
+	font-style: normal;
+	font-variant: normal;
+	font-variant-alternates: normal;
+	font-variant-caps: normal;
+	font-variant-east-asian: normal;
+	font-variant-ligatures: normal;
+	font-variant-numeric: normal;
+	font-variant-position: normal;
+	list-style-position: outside;
+	text-transform: uppercase;
+	box-sizing: content-box;
+	z-index: auto;
+}
+
+#name-and-tagline {
+	margin: 0 auto;
+	max-width: 1335px;
+	position: relative;
+	display: block;
+	height: 167.2;
+	color: #fff;
+	font-feature-settings: normal;
+	font-kerning: auto;
+	font-language-override: normal;
+	font-size: 18px;
+	font-stretch: normal;
+	font-style: normal;
+	font-variant: normal;
+	font-variant-alternates: normal;
+	font-variant-caps: normal;
+	font-variant-east-asian: normal;
+	font-variant-ligatures: normal;
+	font-variant-numeric: normal;
+	font-variant-position: normal;
+	font-weight: 900;
+	letter-spacing: 2.7px;
+	line-height: 36px;
+	box-sizing: content-box;
+	z-index: auto;
+}
+
+#_name {
+	margin: 100px;
+	padding: 100px, 0;
+	text-align: center;
+	font-size: 76px;
+	line-height: 83.6px;
+	letter-spacing: .05em;
+	font-family: 'Segoe UI',Arial,sans-serif;
+	font-weight: 900;
+	display: block;
+	margin-block-start: .67em;
+    margin-block-end: .67em;
+    color: #fff;
+    height: 167.2px;
+    width: 1148px;
+    font-feature-settings: normal;
+	font-kerning: auto;
+	font-language-override: normal;
+	font-stretch: normal;
+	font-style: normal;
+	font-variant: normal;
+	font-variant-alternates: normal;
+	font-variant-caps: normal;
+	font-variant-east-asian: normal;
+	font-variant-ligatures: normal;
+	font-variant-numeric: normal;
+	font-variant-position: normal;
+	box-sizing: content-box;
+	position: relative;
+	z-index: auto;
+}
+
+#_tagline {
+	font-size: 43px;
+	font-weight: 300;
+	letter-spacing: .075em;
+	text-align: center;
+	font-family: 'Segoe UI',Arial,sans-serif;
+	color: #fff;
+	width: 770.4px;
+	height: 49px;
+	font-feature-settings: normal;
+	font-kerning: auto;
+	font-language-override: normal;
+	font-stretch: normal;
+	font-style: normal;
+	font-variant: normal;
+	font-variant-alternates: normal;
+	font-variant-caps: normal;
+	font-variant-east-asian: normal;
+	font-variant-ligatures: normal;
+	font-variant-numeric: normal;
+	font-variant-position: normal;
+	line-height: 47.3px;
+	box-sizing: content-box;
+	display: inline;
+	z-index: auto;
+	position: relative;
+}
+
+#full_name {
+	text-align: center;
+	font-size: 76px;
+	letter-spacing: .05em;
+	font-weight: 900;
+	color: #fff;
+	width: 550px;
+	height: 86px;
+	font-family: 'Segoe UI',Arial,sans-serif;
+	font-feature-settings: normal;
+	font-kerning: auto;
+	font-language-override: normal;
+	font-stretch: normal;
+	font-style: normal;
+	font-variant: normal;
+	font-variant-alternates: normal;
+	font-variant-caps: normal;
+	font-variant-east-asian: normal;
+	font-variant-ligatures: normal;
+	font-variant-numeric: normal;
+	font-variant-position: normal;
+	letter-spacing: 3.8px;
+	line-height: 83.6px;
+	vertical-align: baseline;
+	margin-top: 0px;
+	box-sizing: content-box;
+	display: inline;
+	z-index: auto;
+	position: static;
+}
+
+#main-about {
+	padding-top:100px;
+	height:505px;
+	width:1335px;
+	background-color: #fff;
+	color:#000;
+	box-sizing: border-box;
+	display: block;
+	font-family: futura-pt, sans-serif;
+    font-size: 16px;
+    line-height: 20px;
+    margin-top: 100px;
+    margin-bottom:100px;
+}
+
+#about_internal_first {
+	max-width: 730px;
+	margin-left: auto;
+    margin-right: auto;
+    box-sizing: border-box;
+    display: block;
+    color: rgb(97, 97, 97);
+    font-family: 'Segoe UI', sans-serif;
+    font-size: 16px;
+    line-height: 20px;
+    content: " ";
+    display: table;
+	clear: both;
+	height: 505px;
+	margin-left: 33px;
+	margin-right: 33px;
+	padding-left: 100px;
+}
+
+#about_sec_left_heading {
+    margin-right: 29px;
+    padding-bottom: 31px;
+    text-align: left;
+    font-family: 'Segoe UI', sans-serif;
+    color: rgb(38, 38, 38);
+    font-size: 31px;
+    line-height: 35px;
+    font-weight: 800;
+    text-align: center;
+    text-transform: uppercase;
+    margin: 0px;
+    box-sizing: border-box;
+    display: block;
+    -webkit-margin-before: 0.83em;
+    -webkit-margin-after: 0.83em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    width: 734px;
+    height: 35px;
+}
+
+#about_sec_left_row {
+	margin-left: -10px;
+    margin-right: -10px;
+    box-sizing: border-box;
+    display: block;
+    color: rgb(97, 97, 97);
+    font-family: 'Segoe UI', sans-serif;
+    font-size: 16px;
+    line-height: 20px;
+    content: " ";
+    display: table;
+    clear: both;
+    width: 570px;
+    height: 493px;
+}
+
+#thin-text {
+	width: auto;
+	height: auto;
+}
+
+#about_sec_left_row_one {
+	width: 745px;
+	height: 340px;
+	padding-top: 40px;
+    padding-right: 40px;
+    position: relative;
+    float: left;
+    min-height: 1px;
+    padding-left: 10px;
+    box-sizing: border-box;
+    display: block;
+    color: rgb(97, 97, 97);
+    font-family: 'Segoe UI', sans-serif;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+#about_sec_left_row_two {
+	padding-top: 40px;
+    padding-left: 80px;
+    text-align: left;
+    position: relative;
+    float: left;
+    min-height: 1px;
+    padding-right: 10px;
+    box-sizing: border-box;
+    display: inline;
+    font-family: 'Segoe UI', sans-serif;
+    font-size: 16px;
+    line-height: 20px;
+    width: 350px;
+    height: 455px;
+    clear: both;
+    margin-left:740px;
+    margin-top: -410px;
+}
+
+#pers_image {
+	border-radius: 50%;
+}
+
+#short_bio {
+	margin-top: 0px;
+    margin-bottom: 15px;
+    font-family: 'Segoe UI', sans-serif;
+    font-size: 16px;
+    line-height: 21px;
+    box-sizing: border-box;
+    display: block;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    color: rgb(97, 97, 97);
+    width: 745px;
+    height: 70px;
+    padding: 10px; 
+}
+
+#other_sec_buttons {
+	font-size: 18px;
+	line-height: 36px;
+	text-align: center;
+	margin-top: 30px;
+	padding-top: 70px;
+	width: 730px;
+	height:70px;
+	margin: 0 0 1.2em;
+	display: block;
+	margin-block-start: 1em;
+	margin-block-end: 1em;
+	color: #fff;
+	letter-spacing: .15em;
+	font-family: 'Segoe UI', sans-serif;
+	font-feature-settings: normal;
+	font-kerning: auto;
+	font-language-override: normal;
+	font-size: 36px;
+	font-stretch: normal;
+	font-style: normal;
+	font-variant: normal;
+	font-variant-alternates: normal;
+	font-variant-caps: normal;
+	font-variant-east-asian: normal;
+	font-variant-ligatures: normal;
+	font-variant-numeric: normal;
+	font-variant-position: normal
+}
+
+#actual_button_one {
+	/*--margin-top: 0;*/
+	display: inline-block;
+	vertical-align: middle;
+	margin: 15px;
+	padding: 5px;
+	border: none;
+	background: none;
+	text-decoration: none;
+	color: #fff;
+	transition: color .3s;
+	cursor: pointer;
+	font-size: 18px;
+    line-height: 38px;
+    text-align: center;
+    letter-spacing: .15em;
+    font-family: 'Segoe UI', sans-serif;
+    background-color: lightgreen;
+    width: 150px;
+    height: 40px;
+    box-sizing: content-box;
+    display: inline-block;
+    position: static;
+    z-index: auto;
+    border-bottom-color: rgb(255, 255, 255);
+	border-bottom-style: none;
+	border-bottom-width: 0px;
+	border-image-outset: 0;
+	border-image-repeat: stretch stretch;
+	border-image-slice: 100%;
+	border-image-source: none;
+	border-image-width: 1;
+	border-left-color: rgb(255, 255, 255);
+	border-left-style: none;
+	border-left-width: 0px;
+	border-right-color: rgb(255, 255, 255);
+	border-right-style: none;
+	border-right-width: 0px;
+	border-top-color: rgb(255, 255, 255);
+	border-top-style: none;
+	border-top-width: 0px;
+	border-radius: 10px;
+}
+
+#actual_button_two {
+	/*margin-top: 0;*/
+	display: inline-block;
+	vertical-align: middle;
+	margin: 15px;
+	padding: 5px;
+	border: none;
+	background: none;
+	text-decoration: none;
+	color: #fff;
+	transition: color .3s;
+	cursor: pointer;
+	font-size: 18px;
+    line-height: 38px;
+    text-align: center;
+    letter-spacing: .15em;
+    font-family: 'Segoe UI', sans-serif;
+    background-color: lightblue;
+    width: 150px;
+    height: 40px;
+    box-sizing: content-box;
+    display: inline-block;
+    position: static;
+    z-index: auto;
+    border-bottom-color: rgb(255, 255, 255);
+	border-bottom-style: none;
+	border-bottom-width: 0px;
+	border-image-outset: 0;
+	border-image-repeat: stretch stretch;
+	border-image-slice: 100%;
+	border-image-source: none;
+	border-image-width: 1;
+	border-left-color: rgb(255, 255, 255);
+	border-left-style: none;
+	border-left-width: 0px;
+	border-right-color: rgb(255, 255, 255);
+	border-right-style: none;
+	border-right-width: 0px;
+	border-top-color: rgb(255, 255, 255);
+	border-top-style: none;
+	border-top-width: 0px;
+	border-radius: 10px;
+}
+
+#actual_button_three {
+	/*margin-top: 0;*/
+	display: inline-block;
+	vertical-align: middle;
+	margin: 15px;
+	padding: 5px;
+	border: none;
+	background: none;
+	text-decoration: none;
+	color: #fff;
+	transition: color .3s;
+	cursor: pointer;
+	font-size: 18px;
+    line-height: 38px;
+    text-align: center;
+    letter-spacing: .15em;
+   	font-family: 'Segoe UI', sans-serif;
+    background-color: red;
+    width: 150px;
+    height: 40px;
+    box-sizing: content-box;
+    display: inline-block;
+    position: static;
+    z-index: auto;
+    border-bottom-color: rgb(255, 255, 255);
+	border-bottom-style: none;
+	border-bottom-width: 0px;
+	border-image-outset: 0;
+	border-image-repeat: stretch stretch;
+	border-image-slice: 100%;
+	border-image-source: none;
+	border-image-width: 1;
+	border-left-color: rgb(255, 255, 255);
+	border-left-style: none;
+	border-left-width: 0px;
+	border-right-color: rgb(255, 255, 255);
+	border-right-style: none;
+	border-right-width: 0px;
+	border-top-color: rgb(255, 255, 255);
+	border-top-style: none;
+	border-top-width: 0px;
+	border-radius: 10px;
+}
+.skill-bars{
+  padding: 20px 30px;
+  width: 1190px;
+  background: #fff;
+  box-shadow: 5px 5px 20px rgba(0,0,0,0.2);
+  border-radius: 10px;
+}
+.skill-bars .bar{
+  margin: 20px 0;
+}
+.skill-bars .bar:first-child{
+  margin-top: 0px;
+}
+.skill-bars .bar .info{
+  margin-bottom: 5px;
+}
+.skill-bars .bar .info span{
+  font-weight: 500;
+  font-size: 17px;
+  opacity: 0;
+  animation: showText 0.5s 1s linear forwards;
+}
+@keyframes showText {
+  100%{
+    opacity: 1;
+  }
+}
+.skill-bars .bar .progress-line{
+  height: 10px;
+  width: 100%;
+  background: #f0f0f0;
+  position: relative;
+  transform: scaleX(0);
+  transform-origin: left;
+  border-radius: 10px;
+  box-shadow: inset 0 1px 1px rgba(0,0,0,0.05),
+              0 1px rgba(255,255,255,0.8);
+  animation: animate 1s cubic-bezier(1,0,0.5,1) forwards;
+}
+@keyframes animate {
+  100%{
+    transform: scaleX(1);
+  }
+}
+.bar .progress-line span{
+  height: 50%;
+  position: absolute;
+  border-radius: 10px;
+  transform: scaleX(0);
+  transform-origin: left;
+  background: #6665ee;
+  animation: animate 1s 1s cubic-bezier(1,0,0.5,1) forwards;
+}
+.bar .progress-line.html span{
+  width: 90%;
+}
+.bar .progress-line.css span{
+  width: 60%;
+}
+.bar .progress-line.jquery span{
+  width: 60%;
+}
+.bar .progress-line.python span{
+  width: 80%;
+}
+.bar .progress-line.mysql span{
+  width: 75%;
+}
+.progress-line span::before{
+  position: absolute;
+  content: "";
+  top: -10px;
+  right: 0;
+  height: 0;
+  width: 0;
+  border: 7px solid transparent;
+  border-bottom-width: 0px;
+  border-right-width: 0px;
+  border-top-color: #000;
+  opacity: 0;
+  animation: showText2 0.5s 1.5s linear forwards;
+}
+.progress-line span::after{
+  position: absolute;
+  top: 10px;
+  right: 0;
+  font-weight: 500;
+  background: #000;
+  color: #fff;
+  padding: 1px 8px;
+  font-size: 12px;
+  border-radius: 3px;
+  opacity: 0;
+  animation: showText2 0.5s 1.5s linear forwards;
+}
+@keyframes showText2 {
+  100%{
+    opacity: 1;
+  }
+}
+.progress-line.html span::after{
+  content: "90%";
+}
+.progress-line.css span::after{
+  content: "60%";
+}
+.progress-line.jquery span::after{
+  content: "60%";
+}
+.progress-line.python span::after{
+  content: "80%";
+}
+.progress-line.mysql span::after{
+  content: "75%";
+}
+
+ 
+
+#services {
+	background-color: #4a3f60;
+	padding: 120px 0;
+	display: block;
+	width: 1335px;
+	height: 490px;
+	box-sizing: content-box;
+	float: none;
+	line-height: 20px;
+	position: static;
+	z-index: auto;
+}
+
+
+
+#serviceitems {
+	width: 960px;
+	height: 200px;
+	margin: 2Px auto;
+	transition: width .2s ease;
+	display: block;
+	box-sizing: content-box;
+	float: none;
+	line-height: 20px;
+	position: static;
+	z-index: auto;
+}
+
+#servicelist {
+	width: 460px;
+	height: 200px;
+	margin: 10px;
+	float: left;
+	display: block;
+	box-sizing: content-box;
+	position: static;
+	z-index: auto;
+	line-height: 20px;
+}
+
+#illustration {
+	width: 120px;
+	height: 100px;
+	float: left;
+	margin: 30px 40px 30px 0;
+	border-radius: 50%;
+	background-color: #fff;
+	padding: 47px 0px 0px 40px;
+	display: block;
+	margin-block-start: 1em;
+	margin-block-end: 1em;
+	margin-inline-start: 40px;
+	margin-inline-end: 40px;
+	box-sizing: content-box;
+	position: static;
+	z-index: auto;
+	line-height: 20px;
+}
+
+#serviceheader {
+	margin-top: 65px;
+	margin-bottom: 20px;
+	display: block;
+	float: left;
+	font-weight: bold;
+	font-family: 'Segoe UI', sans-serif;
+	color: white;
+	font-size: 20px;
+	text-decoration: none;
+	line-height: 15px;
+	margin-block-start: 1.67em;
+	margin-block-end: 1.67em;
+	width: 183px;
+	height: 28px;
+	text-decoration-style: solid;
+	box-sizing: content-box;
+	position: static;
+	z-index: auto;
+}
+
+#servicedesc {
+	width: 200px;
+	font-size: 12px;
+	font-weight: 400;
+	color: black;
+	line-height: 20px;
+	display: block;
+	float: left;
+	font-family: 'Segoe UI', sans-serif;
+	margin-block-start: 1em;
+	margin-block-end: 1em;
+	box-sizing: content-box;
+	position: static;
+	z-index: auto;
+	margin-top: 30px;
+}
+
+#actual_image {
+	width: 80px;
+	height: 100px;
+	box-sizing: content-box;
+	display: inline;
+	float: none;
+	line-height: 20px;
+	position: static;
+	z-index: auto;
+	background-color: #fff;
+	border-radius: 50%;
+}
+
+#button_cover {
+    padding: 105px 0 100px;
+    margin: 0 auto;
+    max-width: 1340px;
+    height: 90px;
+    position: relative;
+    display: block;
+    color: #fff;
+    font-family: 'Segoe UI', sans-serif;
+    font-feature-settings: normal;
+	font-kerning: auto;
+	font-language-override: normal;
+	font-size: 18px;
+	font-size-adjust: none;
+	font-stretch: normal;
+	font-style: normal;
+	font-variant: normal;
+	font-variant-alternates: normal;
+	font-variant-caps: normal;
+	font-variant-east-asian: normal;
+	font-variant-ligatures: normal;
+	font-variant-numeric: normal;
+	font-variant-position: normal;
+	font-weight: 900;
+	letter-spacing: 2.7px;
+	line-height: 36px;
+	box-sizing: content-box;
+	float: none;
+	/*background-image: url("images/steemit_blog_img.png");*/
+}
+
+#innerbuttoncover {
+	font-size: 18px;
+	line-height: 36px;
+	height: 68px;
+	text-align: center;
+	margin: 0 0 1.2em;
+	display: block;
+	margin-block-start: 1em;
+	margin-block-end: 1em;
+	color: #fff;
+	letter-spacing: .15em;
+	font-family: 'Segoe UI', sans-serif;
+	font-feature-settings: normal;
+	font-kerning: auto;
+	font-language-override: normal;
+	font-size: 18px;
+	font-size-adjust: none;
+	font-stretch: normal;
+	font-style: normal;
+	font-variant: normal;
+	font-variant-alternates: normal;
+	font-variant-caps: normal;
+	font-variant-east-asian: normal;
+	font-variant-ligatures: normal;
+	font-variant-numeric: normal;
+	font-variant-position: normal;
+	font-weight: 900;
+	letter-spacing: 2.7px;
+	line-height: 36px;
+	box-sizing: content-box;
+	position: static;
+	z-index: auto;
+}
+
+#button-link-cover {
+	display: inline-block;
+	vertical-align: middle;
+	margin: 0;
+	padding: 0;
+	border: none;
+	background: none;
+	text-decoration: none;
+	color: #fff;
+	font-size: 18px;
+	line-height: 36px;
+	text-align: center;
+	font-family: 'Segoe UI', sans-serif;
+	letter-spacing: .15em;
+	width: 325px;
+	height: 70px;
+	font-feature-settings: normal;
+	font-kerning: auto;
+	font-language-override: normal;
+	font-size: 18px;
+	font-size-adjust: none;
+	font-stretch: normal;
+	font-style: normal;
+	font-variant: normal;
+	font-variant-alternates: normal;
+	font-variant-caps: normal;
+	font-variant-east-asian: normal;
+	font-variant-ligatures: normal;
+	font-variant-numeric: normal;
+	font-variant-position: normal;
+	font-weight: 900;
+	transition-delay: 0s;
+	transition-duration: 0.3s;
+	transition-property: color;
+	transition-timing-function: ease;
+	box-sizing: content-box;
+	position: static;
+	z-index: auto;
+}
+
+#button-link-cover:hover {
+	color: yellow;
+}
+
+#button-link-cover-two {
+	position: relative;
+	display: block;
+	border: none;
+	width: 235px;
+	height: 68px;
+	padding: 0 45px;
+	font-size: 19px;
+	font-weight: 900;
+	line-height: 68px;
+	background: #006bb2;
+	color: #fff;
+	text-decoration: none;
+	text-transform: uppercase;
+	border-radius: 3px;
+	box-shadow: #006bb2;
+	letter-spacing: .15em;
+	transition: background-color .3s;
+	cursor: pointer;
+	text-align: center;
+	font: 900 18px/36px 'Segoe UI', sans-serif;
+	margin: 0;
+	text-transform: uppercase;
+	transition-delay: 0s;
+	transition-duration: 0.3s;
+	transition-property: background-color;
+	transition-timing-function: ease;
+	box-sizing: content-box;
+	z-index: auto;
+}
+
+#button-link-cover-three {
+	vertical-align: inherit;
+	font-size: 19px;
+	font-weight: 900;
+	line-height: 68px;
+	color: #fff;
+	text-transform: uppercase;
+	letter-spacing: .15em;
+	cursor: pointer;
+	text-align: center;
+	width: 235px;
+	height: 25px;
+	margin: 0;
+	border: none;
+	padding: 0;
+	color: rgb(255, 255, 255);
+	font-family: 'Segoe UI', sans-serif;
+	font-feature-settings: normal;
+	font-kerning: auto;
+	font-language-override: normal;
+	font-size: 19px;
+	font-size-adjust: none;
+	font-stretch: normal;
+	font-style: normal;
+	font-variant: normal;
+	font-variant-alternates: normal;
+	font-variant-caps: normal;
+	font-variant-east-asian: normal;
+	font-variant-ligatures: normal;
+	font-variant-numeric: normal;
+	font-variant-position: normal;
+	font-weight: 900;
+	box-sizing: content-box;
+	display: inline;
+	float: none;
+	position: static;
+	z-index: auto;
+}
+
+#button-text {
+	vertical-align: inherit;
+	line-height: 68px;
+	color: #fff;
+	text-transform: uppercase;
+	letter-spacing: .15em;
+	cursor: pointer;
+	text-align: center;
+	font-family: 'Segoe UI', sans-serif;
+	font-feature-settings: normal;
+	font-kerning: auto;
+	font-language-override: normal;
+	font-size: 19px;
+	font-size-adjust: none;
+	font-stretch: normal;
+	font-style: normal;
+	font-variant: normal;
+	font-variant-alternates: normal;
+	font-variant-caps: normal;
+	font-variant-east-asian: normal;
+	font-variant-ligatures: normal;
+	font-variant-numeric: normal;
+	font-variant-position: normal;
+	font-weight: 900;
+	margin: 0;
+	padding: 0;
+	border: none;
+	width: 235px;
+	height: 25px;
+	box-sizing: content-box;
+	display: inline;
+	z-index: auto;
+	position: static;
+}
+
+#more {
+	padding-top: 100px;
+	padding-bottom: 100px;
+	padding-left: 200px;
+	background: #006bb2;
+	color: #616161;
+	box-sizing: border-box;
+	display: block;
+	font-family: 'Segoe UI', sans-serif;
+	font-size: 16px;
+	line-height: 20px;
+	width: 1335px;
+	height: 600px;
+	margin-top: 100px;
+	border: none;
+	box-sizing: border-box;
+	float: none;
+	position: static;
+	z-index: auto;
+}
+
+#w-container {
+	max-width: 1170px;
+	margin-left: auto;
+	margin-right: auto;
+    box-sizing: border-box;
+    display: block;
+    color: #616161;
+    font-family: 'Segoe UI', sans-serif;
+	font-size: 16px;
+	line-height: 20px;
+	box-sizing: border-box;
+	float: none;
+	position: static;
+	z-index: auto;
+	height: 205px;
+}
+
+#w-row {
+	margin-left: -10px;
+	margin-right: -10px;
+	box-sizing: border-box;
+	display: block;
+	color: #616161;
+	font-size: 16px;
+	line-height: 20px;
+	padding: 0;
+	border: none;
+	box-sizing: border-box;
+	font-family: 'Segoe UI', sans-serif;
+	height: 200px;
+	position: static;
+	z-index: auto;
+	padding-top: 100px;
+}
+
+#row-one {
+	opacity: 1;
+	transform: scaleX(1) scaleY(1) scaleZ(1);
+	transition: opacity 500ms ease 0s, transform 500ms ease 0s;
+	padding-right: 31px;
+	padding-left: 31px;
+	text-align: center;
+	position: relative;
+	float: left;
+	min-height: 1px;
+	box-sizing: border-box;
+	display: block;
+	color: #616161;
+	font-family: 'Segoe UI', sans-serif;
+	font-size: 16px;
+	line-height: 20px;
+	width: 236px;
+	height: 160px;
+	margin: 0;
+	border: none;
+	opacity: 1;
+	position: relative;
+	transform: matrix(1, 0, 0, 1, 0, 0);
+	transition-delay: 0s, 0s;
+	transition-duration: 0.5s, 0.5s;
+	transition-property: opacity, transform;
+	transition-timing-function: ease, ease;
+}
+
+/*#social_icons:hover {
+	opacity: 1;
+	transform: scaleX(1) scaleY(1) scaleZ(1);
+	transition: opacity 500ms ease 0s, transform 500ms ease 0s;
+	padding-right: 31px;
+	padding-left: 31px;
+	text-align: center;
+	position: relative;
+	float: left;
+	min-height: 1px;
+	box-sizing: border-box;
+	display: block;
+	color: #616161;
+	font-family: 'Segoe UI', sans-serif;
+	font-size: 16px;
+	line-height: 20px;
+	width: 286px;
+	margin: -200;
+	border: none;
+	opacity: 1;
+	position: relative;
+	transform: matrix(1, 0, 0, 1, 0, 0);
+	transition-delay: 0s, 0s;
+	transition-duration: 0.5s, 0.5s;
+	transition-property: opacity, transform;
+	transition-timing-function: ease, ease;
+} */
+
+#feature-icon {
+	margin-bottom: 25px;
+	max-width: 100%;
+	vertical-align: middle;
+	display: inline-block;
+	border: 0;
+	box-sizing: border-box;
+	text-align: center;
+	color: #616161;
+	font-family: 'Segoe UI', sans-serif;
+	font-size: 16px;
+	line-height: 20px;
+	width: 144px;
+	height: 145px;
+	float: none;
+	position: static;
+	z-index: auto;
+}
+
+footer {
+	position: relative;
+	margin-top: 250px;
+}
+
+#status {
+	font-size: 18px;
+	margin: 0 0 50px;
+	color: #aec9dc;
+	display: block;
+	margin-block-start: 1em;
+	margin-block-end: 1em;
+	text-align: center;
+	font:'Segoe UI',Arial,sans-serif;
+	letter-spacing: .15em;
+	width: 1148px;
+	margin-bottom: 50px;
+	margin-left: -100px;
+	line-height: 36px;
+	box-sizing: content-box;
+	position: static;
+	z-index: auto;
+	font-weight: 900;
+	padding-left: ;
+}
+
+#email {
+	margin: 0 0 65px;
+	font-size: 40px;
+	line-height: 1.2;
+	display: block;
+	margin-block-start: 1em;
+	margin-block-end: 1em;
+	text-align: center;
+	color: #fff;
+	font: 900 18px/36px 'Segoe UI',Arial,sans-serif;
+	letter-spacing: .15em;
+	box-sizing: content-box;
+	float: none;
+	position: static;
+	z-index: auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
